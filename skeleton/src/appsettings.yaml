@@ -1,0 +1,6 @@
+ImoV2Db:
+  DbServer: home-server
+  DbName: imov2
+  DbPort: 3306
+  DbUsername: root
+  DbPassword: qwe123
